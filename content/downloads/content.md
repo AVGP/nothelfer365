@@ -10,4 +10,4 @@ weight = 100
 
 ## Merkzettel
 
-- [Nothilfe auf einen Blick](/files/Nothilfe-auf-einen-Blick.pdf)
+- [Nothilfe auf einen Blick](/files/Nothilfe-auf-einen-Blick.pdf) ¦ [First response at a glance](/files/First-response-at-a-glance.pdf)
