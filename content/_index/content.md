@@ -11,7 +11,9 @@ title = "Nothelferkurse und Erste Hilfe Kurse"
 
 Wir bieten [Nothelferkurse für Führerausweisbewerbende](/nothelferkurse), [Erste Hilfe Kurse](/kurse/erstehilfe) nach [EFR](https://www.emergencyfirstresponse.com/) Standard, sowie günstige und praxisorientierte [Auffrischungskurse](/kurse/refresher) an.
 
+<!--
 Darüber hinaus gibt es Freizeitbeschäftigungen mit speziellen Anforderungen (z.B. Klettern oder Tauchen), für die wir [Spezialkurse](/kurse/spezialkurse) anbieten bei denen auf die besonderen Umstände und Techniken eingegangen wird.
+-->
 
 ### Leben retten leicht gemacht
 

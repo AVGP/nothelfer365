@@ -76,15 +76,15 @@ googleAnalytics = ""
   name = "Home"
   weight = 10
 
-#[[menu.main]]
-#  url = "/nothelferkurse"
-#  name = "Nothelferkurse"
-#  weight = 20
+[[menu.main]]
+  url = "/nothelferkurse"
+  name = "Nothelferkurse"
+  weight = 20
 
-#[[menu.main]]
-#  url = "/kurse"
-#  name = "Alle Kurse"
-#  weight = 30
+[[menu.main]]
+  url = "/kurse"
+  name = "Alle Kurse"
+  weight = 30
 
 [[menu.main]]
   url = "/downloads"
