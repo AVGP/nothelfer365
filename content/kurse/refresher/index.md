@@ -17,7 +17,7 @@ Also, nicht zögern, sondern jetzt einen Refresher-Kurs buchen!
 
 ### Aktuelle Kurse
 
-<iframe src="https://app.cituro.com/booking/4349650?presetService=11eb9dd83aa01b30b4fbd1e484b90e71" width="90%" height="300"></iframe>
+<iframe src="https://app.cituro.com/booking/4349650?presetService=11eb9dd83aa01b30b4fbd1e484b90e71" width="98%" height="300"></iframe>
 
 ### Der Kurs im Überblick
 

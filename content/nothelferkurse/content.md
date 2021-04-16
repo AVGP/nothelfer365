@@ -11,7 +11,7 @@ weight = 100
 ### Aktuelle Kurse
 
 Aktuell bieten wir Nothelferkurse in Zusammenarbeit mit der [Fahrschule Luan](https://fahrschule-luan.ch/nothelferkurs/) in Zürich an.
-<iframe src="https://partnergate.nothilfe24.ch/index.php/frame/index/YmFqZ29yYTc1QGdtYWlsLmNvbQ%3D%3D/Tm90aGlsZmVrdXJz/true" frameborder="0" style="width:500px; height:440px"></iframe>
+<iframe src="https://partnergate.nothilfe24.ch/index.php/frame/index/YmFqZ29yYTc1QGdtYWlsLmNvbQ%3D%3D/Tm90aGlsZmVrdXJz/true" frameborder="0" width="98%" height="440px"></iframe>
 
 ### Der Kurs im Überblick
 

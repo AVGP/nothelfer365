@@ -7,7 +7,7 @@ background = "light"
 +++
 
 ### Aktuelle Kurse
-<iframe src="https://app.cituro.com/booking/4349650?presetService=11eb9dd94a62b9c19c1b85b0407cc527" width="90%" height="300"></iframe>
+<iframe src="https://app.cituro.com/booking/4349650?presetService=11eb9dd94a62b9c19c1b85b0407cc527" width="98%" height="300"></iframe>
 
 ### Der Kurs im Überblick
 

@@ -5,7 +5,7 @@ date = "2021-04-08"
 weight = 50
 
 [header]
-  image = "refresher.jpg"
+  image = "kurse.jpg"
 
 [[buttons]]
   text = "Nothelferkurse"
