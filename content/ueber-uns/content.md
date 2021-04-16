@@ -17,3 +17,12 @@ Nothelfer365 ist ein Verein mit dem Zweck, die Kenntnisse der Nothilfe und der p
 Getreu unserem Motto **Leben retten leicht gemacht** bieten wir kostengünstige Kurse in der Notfallhilfe an, die dem aktuellen Stand des Wissens, der Technik und didaktischer Möglichkeiten entsprechen und ein breites Publikum ansprechen.
 
 Wir arbeiten daran eine gute, schnelle medizinische Notfallhilfe durch möglichst viele, handlungbereite und gut ausgebildete Laienhelfer in der Bevölkerung in der Schweiz zu gewährleisten.
+
+## Standards
+
+Unsere Kurse sind nach [EFR](https://emergencyfirstresponse.com) und [SRC](https://resuscitation.ch) zertifiziert.
+Die Nothelferkurse sind durch Swiss Alpha Medic darüber hinaus ASTRA zertifiziert.
+
+## Kontakt
+
+Du möchtest uns etwas sagen? Schreib uns doch eine Nachricht über unser Kontaktformular:
