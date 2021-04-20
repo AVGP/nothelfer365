@@ -1,4 +1,4 @@
-languageCode = "de-ch"
+languageCode = "de"
 title = "Nothelfer365 - Nothelferkurse für alle"
 theme = "syna"
 
@@ -24,10 +24,44 @@ googleAnalytics = ""
     [markup.goldmark.renderer]
      unsafe = true
 
+[languages]
+  [languages.de]
+    weight = 1
+  [languages.en]
+    title = "Nothelfer365 - First aid courses for everyone"
+    weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        url = "/"
+        name = "Home"
+        weight = 10
+#      [[languages.en.menu.main]]
+#        url = "/nothelfercourses"
+#        name = "Nothelfer Courses"
+#        weight = 20
+
+      [[languages.en.menu.main]]
+        url = "/courses"
+        name = "All courses"
+        weight = 30
+
+      [[languages.en.menu.main]]
+        url = "/downloads"
+        name = "Downloads"
+        weight = 40
+
+      [[languages.en.menu.main]]
+        url = "/about-us"
+        name = "About us"
+        weight = 40
+    [languages.en.params]
+      description = "Modern, effective and affordable first aid courses"
+
 [params]
   name = "Nothelfer365"
   description = "Günstige, moderne Nothelferkurse"
   unsafeEvents = true # Default is false. Enables ?event=type format of url events.
+  defaultContentLanguage = "de"
 
   [params.style]
     background = "light"
