@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = false
 
 title = "Nothelfer365"
-subtitle = "Saving a life is not hard"
+subtitle = "Saving a life is easy"
 
 [header]
   image = "header.jpeg"
