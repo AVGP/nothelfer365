@@ -17,6 +17,12 @@ Darüber hinaus gibt es Freizeitbeschäftigungen mit speziellen Anforderungen (z
 
 ### Leben retten leicht gemacht
 
+<video controls width="90%">
+  <source src="/files/Leben-retten-leicht-gemacht.webm" type="video/webm">
+  <source src="/files/Leben-retten-leicht-gemacht.mp4" type="video/mp4">
+  Sorry, your browser does not support embedded videos.
+</video>
+
 Ein Notfall kann überall schnell passieren - im Strassenverkehr, bei der Arbeit, in der Freizeit oder im Haushalt.
 Unsere Nothelferkurse sind nicht nur für Führerausweisbewerbende, sondern für jeden.
 
