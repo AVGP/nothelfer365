@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Erste Hilfe Intensivkurse"
+title = "Erste Hilfe Schnellkurs"
 background = "light"
 +++
 
@@ -11,7 +11,7 @@ background = "light"
 
 ### Der Kurs im Überblick
 
-- Der Kurs dauert insgesamt **7 Stunden** und gliedert sich in 3 Teile:
+- Der Kurs dauert insgesamt **5 Stunden** und gliedert sich in 3 Teile:
   1. Erstversorgung
   2. Zweitversorgung
   3. Anwendung des AED
@@ -38,7 +38,6 @@ Im Intensivkurs erlernst du:
 - Krankheiten zu beurteilen
 - Verbände anzufertigen
 - Knochenbrüche und Verrenkungen zu behandeln
-- allergische Reaktionen zu behandeln
 - Umgang mit Verbrennungen und Verätzungen
 - Verhalten bei Stromunfällen
 - Umgang mit Augenverletzungen
