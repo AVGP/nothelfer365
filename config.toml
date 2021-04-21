@@ -53,7 +53,11 @@ googleAnalytics = ""
       [[languages.en.menu.main]]
         url = "/about-us"
         name = "About us"
-        weight = 40
+        weight = 50
+      [[languages.en.menu.main]]
+        url = "/support-us"
+        name = "Support us"
+        weight = 60
     [languages.en.params]
       description = "Modern, effective and affordable first aid courses"
 
@@ -128,7 +132,12 @@ googleAnalytics = ""
 [[menu.main]]
   url = "/ueber-uns"
   name = "Über uns"
-  weight = 40
+  weight = 50
+
+[[menu.main]]
+  url = "/unterstuetzen"
+  name = "Mitglied werden"
+  weight = 50
 
 #[[menu.footer]]
 #  url = "https://syna.okkur.org/demo"
