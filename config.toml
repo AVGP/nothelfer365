@@ -10,7 +10,7 @@ ignorefiles = [ "content/dev/.*" ]
 debug = true
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "G-7X9FW3MCHK"
 
 [outputs]
   home = ["HTML", "JSON"]
