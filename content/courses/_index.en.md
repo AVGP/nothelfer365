@@ -1,3 +1,3 @@
 +++
-title = "Unsere Kurse"
+title = "Our courses"
 +++
