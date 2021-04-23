@@ -3,6 +3,7 @@ fragment = "content"
 weight = 100
 
 title = "CPR & AED essentials"
+subtitle = "The quick way to save a life"
 background = "light"
 +++
 

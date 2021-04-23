@@ -1,7 +1,7 @@
 +++
 weight = 30
 title = "First aid & CPR"
-subtitle = "Saving lives made easy"
+subtitle = "The full package for first aid and CPR"
 
 [asset]
   image = "efr.jpg"

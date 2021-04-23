@@ -1,6 +1,7 @@
 +++
 weight = 10
 title = "CPR & AED Essentials"
+subtitle = "The quick way to save a life"
 
 [asset]
   image = "cpr-aed-essentials.jpg"
