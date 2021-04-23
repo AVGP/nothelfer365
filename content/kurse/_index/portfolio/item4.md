@@ -1,0 +1,15 @@
++++
+weight = 30
+title = "Lebensrettende Sofortmassnahmen & AED"
+subtitle = "Lerne Leben zu retten"
+
+[asset]
+  image = "cpr-aed-essentials.jpg"
++++
+
+In diesem Kurs erhältst du Kenntnisse in lebensrettenden Massnahmen und lernst einen AED (Automatischen Externen Defibrillator) einzusetzen.
+
+Der Kurs ist ideal für alle, die im Notfall Leben retten wollen.
+Du erhältst eine Teilnahmebestätigung, die ein Jahr gültig ist.
+
+[Jetzt Kurs buchen und Leben retten](/kurse/hlw-und-aed/)
