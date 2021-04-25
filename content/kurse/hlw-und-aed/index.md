@@ -16,7 +16,7 @@ background = "light"
   2. Lebensrettende Sofortmassnahmen bei medizinischen Notfällen
   3. Anwendung des AED
 - Du lernst, wie du lebensrettende Sofortmassnahmen und einen AED (Automatischen Externen Defibrillator) anwendest und so Leben rettest.
-- Der Kurs kostet 30 CHF und beinhaltet ein Teilnehmerzertifikat.
+- Der Kurs kostet 35 CHF und beinhaltet ein Teilnehmerzertifikat.
 - Die Zertifizierung ist ein Jahr gültig.
 
 ### Was du im Kurs lernst

@@ -16,7 +16,7 @@ background = "light"
   1. CPR &amp; primary care
   3. Using an AED
 - The course covers the key techniques and skills for resuscitation and AED usage.
-- The course fee is 30 CHF and includes a participation certificate by Nothelfer365.
+- The course fee is 35 CHF and includes a participation certificate by Nothelfer365.
 - The certification is valid for one year.
 
 ### What you will learn
