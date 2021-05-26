@@ -36,7 +36,7 @@ Die Kurse können über die [Fahrschule Luan](https://fahrschule-luan.ch/nothelf
       "@context": "https://schema.org",
       "@type": "Course",
       "name": "Nothelferkurs",
-      "description": "In unseren Nothelferkursen für Führerausweisbewerbende lernst du, wie du dich im Notfall richtig verhältst. Der Kurs besteht aus einem Theorieteil gefolgt vielen praktischen Übungen, damit du dich im Notfall sicher fühlst und weisst, was zu tun ist.",
+      "description": "Im Nothelferkurs für Führerausweisbewerbende lernst du richtiges Verhalten im Notfall. Von Wiederbelebung bis Patientenbetreuung und Wundversorgung enthält der Kurs alles Nötige um Leben zu retten.",
       "provider": {
         "@type": "Organization",
         "name": "Nothelfer365",
