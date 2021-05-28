@@ -42,6 +42,7 @@ Du möchtest uns etwas sagen? Schreib uns doch eine Nachricht über unser Kontak
         "addressCountry": "Switzerland"
     },
     "logo": "https://nothelfer365.ch/images/logo.svg",
-    "slogan": "Leben retten leicht gemacht"
+    "slogan": "Leben retten leicht gemacht",
+    "url": "https://nothelfer365.ch"
   }
 </script>
