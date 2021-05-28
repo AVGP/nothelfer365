@@ -36,7 +36,7 @@ Du möchtest uns etwas sagen? Schreib uns doch eine Nachricht über unser Kontak
     "sameAs": "https://nothelfer365.ch",
     "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Muehlezelgstrasse 26"
+        "streetAddress": "Muehlezelgstrasse 26",
         "postalCode": "8047",
         "addressLocality": "Zurich",
         "addressCountry": "Switzerland"
