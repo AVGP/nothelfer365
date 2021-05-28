@@ -21,7 +21,7 @@ Wir arbeiten daran eine gute, schnelle medizinische Notfallhilfe durch möglichs
 ## Standards
 
 Unsere Kurse sind nach [EFR](https://emergencyfirstresponse.com) und [SRC](https://resuscitation.ch) zertifiziert.
-Die Nothelferkurse sind durch Swiss Alpha Medic darüber hinaus ASTRA zertifiziert.
+Die Nothelferkurse sind darüber hinaus vom Bundesamt für Strassenverkehr (ASTRA) zertifiziert.
 
 ## Kontakt
 
