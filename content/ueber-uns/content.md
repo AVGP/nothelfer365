@@ -26,3 +26,22 @@ Die Nothelferkurse sind darüber hinaus vom Bundesamt für Strassenverkehr (ASTR
 ## Kontakt
 
 Du möchtest uns etwas sagen? Schreib uns doch eine Nachricht über unser Kontaktformular:
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Nothelfer365",
+    "description": "Im Nothelferkurs für Führerausweisbewerbende lernst du richtiges Verhalten im Notfall. Von Wiederbelebung bis Patientenbetreuung und Wundversorgung enthält der Kurs alles Nötige um Leben zu retten.",
+    "sameAs": "https://nothelfer365.ch",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Muehlezelgstrasse 26"
+        "postalCode": "8047",
+        "addressLocality": "Zurich",
+        "addressCountry": "Switzerland"
+    },
+    "logo": "https://nothelfer365.ch/images/logo.svg",
+    "slogan": "Leben retten leicht gemacht"
+  }
+</script>
