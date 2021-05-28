@@ -1,6 +1,6 @@
 +++
 weight = 20
-title = "Refresherkurs"
+title = "Auffrischungskurs"
 subtitle = "Schnell wieder parat im Notfall"
 
 [asset]
@@ -10,6 +10,6 @@ subtitle = "Schnell wieder parat im Notfall"
 Du hast bereits einen Nothelferkurs absolviert, bist dir aber nicht mehr ganz sicher, wie die Nothilfe genau funktioniert?
 Dann besuch einen unserer Auffrischungskurse! 
 
-In nur 3 Stunden wiederholst du kurz die wichtigsten Schritte und erneuerst dann deine Fähigkeiten in praktischen Übungen.
+In nur 2 Stunden wiederholst du kurz die wichtigsten Schritte und erneuerst dann deine Fähigkeiten in praktischen Übungen.
 
 [Jetzt anmelden und Leben retten](/kurse/refresher/)

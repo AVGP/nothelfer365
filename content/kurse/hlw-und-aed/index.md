@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Lebensrettende Sofortmassnahmen und AED"
+title = "Erste Hilfe Schnellkurs"
 background = "light"
 +++
 
@@ -30,3 +30,17 @@ In diesem Kurs erlernst du:
 - einen Automatischen Externen Defibrillators (AED) einzusetzen
 
 Als Abschluss erhältst du ein Teilnehmerzertifikat mit einer Gültigkeit von einem Jahr.
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Erste Hilfe Schnellkurs",
+    "description": "Lerne wie du im Notfall leben retten kannst. Im Kurs erlernst anhand praktischer Übungen und Szenarien in zwei Stunden, wie du lebensrettende Sofortmassnahmen durchführst und einen AED einsetzt.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Nothelfer365",
+      "sameAs": "https://nothelfer365.ch"
+    }
+  }
+</script>

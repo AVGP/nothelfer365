@@ -32,15 +32,15 @@ In den Fall-Szenarien üben wir dann gemeinsam den Umgang mit Notfällen anhand 
 Die Kurse können über die [Fahrschule Luan](https://fahrschule-luan.ch/nothelferkurs/) gebucht werden.
 
 <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Course",
-      "name": "Nothelferkurs",
-      "description": "Im Nothelferkurs für Führerausweisbewerbende lernst du richtiges Verhalten im Notfall. Von Wiederbelebung bis Patientenbetreuung und Wundversorgung enthält der Kurs alles Nötige um Leben zu retten.",
-      "provider": {
-        "@type": "Organization",
-        "name": "Nothelfer365",
-        "sameAs": "https://nothelfer365.ch"
-      }
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Nothelferkurs",
+    "description": "Im Nothelferkurs für Führerausweisbewerbende lernst du richtiges Verhalten im Notfall. Von Wiederbelebung bis Patientenbetreuung und Wundversorgung enthält der Kurs alles Nötige um Leben zu retten.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Nothelfer365",
+      "sameAs": "https://nothelfer365.ch"
     }
-    </script>
+  }
+</script>

@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Refresherkurse"
+title = "Auffrischungskurs"
 background = "light"
 +++
 
@@ -13,7 +13,7 @@ Es zeigt sich, das der letzte Erste Hilfe Kurs im Schnitt **15 Jahre** zurückli
 
 > "Ein Grossteil der Befragten, die sich bei einem Notfall unsicher fühlen, ist überzeugt, dass regelmässige Wiederholungskurse Sicherheit geben würden."
 
-Also, nicht zögern, sondern jetzt einen Refresher-Kurs buchen!
+Also, nicht zögern, sondern jetzt einen Auffrischungs-Kurs buchen!
 
 ### Aktuelle Kurse
 
@@ -21,7 +21,7 @@ Also, nicht zögern, sondern jetzt einen Refresher-Kurs buchen!
 
 ### Der Kurs im Überblick
 
-- Der Kurs dauert insgesamt **3 Stunden**.
+- Der Kurs dauert insgesamt **2 Stunden**.
 - Nach einer kurzen Auffrischung der wichtigsten Informationen wird anhand von praktischen Beispielen geübt.
 - Am Ende des Kurses erhältst du ein Teilnahme-Zertifikat von Nothelfer365.
 - Der Kurs kostet 30 CHF.
@@ -32,4 +32,18 @@ Im Refresher-Kurs wiederholst du kurz die wichtigsten Schritte der Nothilfe, wie
 
 Danach geht es im praktischen Teil darum, anhand von Fall-Szenarien die Hilfe im Notfall zu üben, deine Fähigkeiten zu festigen und dir somit mehr Sicherheit und Selbstvertrauen im Notfall zu geben.
 
-Als Abschluss erhältst du weitere Tipps für Notfälle und ein Teilnahme-Zertifikat mit 12 Monaten Gültigkeit.
+Als Abschluss erhältst du weitere Tipps für Notfälle und ein Teilnahme-Zertifikat mit 24 Monaten Gültigkeit.
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Erste Hilfe Auffrischungskurs",
+    "description": "Bring deine Erste Hilfe Fähigkeiten auf den neuesten Stand. In praktischen Übungen frischst du während 2 Stunden deine Fähigkeiten und Kenntnisse auf und fühlst dich so in Notfällen wieder sicherer und hilfsbereiter.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Nothelfer365",
+      "sameAs": "https://nothelfer365.ch"
+    }
+  }
+</script>
